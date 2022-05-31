@@ -1,10 +1,5 @@
-## Try CommonMark
+##API Automation Test
 
-You can try CommonMark here.  This dingus is powered by
-[commonmark.js](https://github.com/commonmark/commonmark.js), the
-JavaScript reference implementation.
-
-1. item one
-2. item two
-    - sublist
-    - sublist
+1. Download project
+2. Download Dependencias
+3. Run from CucumberSuiteTest class, otherwise It might not execute properly
